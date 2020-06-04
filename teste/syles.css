@@ -45,14 +45,12 @@ posicionamento, bordas, cor, fundo, maneira que e vista pelo html (display)
 }
 
 #page-home .content {
+  height: 100%;
   width: 95%;
   max-width: 1900px;
-  height: 100%;
   margin: 0 auto;
   display: flex;
   flex-direction: column;
-
-
 }
 
 #page-home header {
